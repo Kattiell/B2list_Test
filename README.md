@@ -5,7 +5,7 @@ Desafio full-stack proposto pela empresa: B2list
   :sparkles: :v: Documentação utilizada para o projeto by: Kattiel :sparkles: 
 </h2>
 
-<h2 display="inline"> Segue algumas infos sobre mim <h2>
+<h2 display="inline"> Segue algumas infos sobre mim
 <h3>
   Tenho 20 anos e sou de Patos de Minas, Minas Gerais. Amo lo-fi . <br>
   Atualmente trabalho na B2LIST com a Coordenação do time de Suporte. 
