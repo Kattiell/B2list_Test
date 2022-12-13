@@ -12,6 +12,8 @@ Desafio full-stack proposto pela empresa: B2list
   •	Como Construtor (Front-End) foi utilizado - Vite React, por sua agiligadae na conversão de módulos. <br>
   <br>
   •	Como Gerenciador de componentes foi utilizado - StoryBook, por servir um abiente para criar componentes.<br>
+  <br>
+  •	Para armazenamento de dados foi utilizado o banco - SQL SERVER, por dar certeza de recuperações e disponibilidade dos dados.<br>
   
   
 <h4/>
