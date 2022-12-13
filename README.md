@@ -11,9 +11,9 @@ Desafio full-stack proposto pela empresa: B2list
   <br>
   •	Como Construtor (Front-End) foi utilizado - Vite React, por sua agiligadae na conversão de módulos. <br>
   
-  <br>
+<h3/>
+<h2 display="inline"> Como executar o projeto:
+   <br>
   •	Ao clonar este projeto é recomendado que execute o comando no terminal - "npm install". <br>
   <br>
   • Para executar o Projeto - "yarn run dev".
-
-<h3/>
