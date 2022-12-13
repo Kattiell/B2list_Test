@@ -10,6 +10,9 @@ Desafio full-stack proposto pela empresa: B2list
   •	Como Framework (Front-End) foi utilizado - React JS, por sua flexibilidade diante a componentização. <br>
   <br>
   •	Como Construtor (Front-End) foi utilizado - Vite React, por sua agiligadae na conversão de módulos. <br>
+  <br>
+  •	Como Gerenciador de componentes foi utilizado - StoryBook, por servir um abiente para criar componentes.<br>
+  
   
 <h4/>
 <h2 display="inline"> Como executar o projeto:
