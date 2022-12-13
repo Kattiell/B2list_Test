@@ -2,7 +2,7 @@
 <br/>
 Desafio full-stack proposto pela empresa: B2list
 <h2 display="inline">
-  :sparkles: :v: Ferramentas utilizadas para o projeto by: Kattiel :sparkles: 
+  Ferramentas utilizadas para o projeto by: Kattiel
 </h2>
 
 <h2 display="inline"> Segue abaixo as informações:
