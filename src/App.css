@@ -4,10 +4,12 @@
   list-style-type: none;
   border-style: none;
   text-decoration: none;
+  
 }
 
 html {
   background-color: #FFFFFF;
+  overflow: hidden;
 
 }
 
@@ -20,20 +22,21 @@ html {
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
-  overflow: hidden; 
 }
 
 
 @media(max-width:1140px) {
   .App {
     flex-direction: column;
+    overflow: scroll !important;
+
   }
 
   .imageContainer {
     width: 100% !important;
     order: 2 !important;
     margin-top: 100px !important;
-    
+
   }
 
   .circleEffectsArea {
@@ -53,37 +56,45 @@ html {
     margin: 100px 0 0 50px !important;
   }
 }
+
 @media(max-width:580px) {
-    .titles {
-      margin: 100px 5px 0 40px !important;
-      width: 100%;
-      display: flex;
-      flex-direction: column;
-      align-items: center !important;
-      justify-content: center;
-      gap: 0px;
-      
-    }
-    .titles h2, .titles h1{
-      font-size: 30px !important;
-      width: 100% !important;
-      /* white-space: nowrap !important;
+  .titles {
+    margin: 100px 5px 0 40px !important;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+    justify-content: center;
+    gap: 0px;
+
+  }
+
+  .titles h2,
+  .titles h1 {
+    font-size: 30px !important;
+    width: 100% !important;
+    /* white-space: nowrap !important;
       overflow: hidden !important;
       text-overflow: ellipsis !important; */
-    }
+  }
 
-    .buttons{
-      flex-direction: column !important;
-      display: flex;
-      margin: 40px 0 0 0 !important;
-      justify-content: center !important;
-      align-items: center !important;
-      gap: 30px !important;
-    }
-    .App{
-      overflow: hidden !important;
-    }
-  
+  .buttons {
+    flex-direction: column !important;
+    display: flex;
+    margin: 40px 0 0 0 !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 30px !important;
+  }
+
+  .App {
+    overflow: scroll !important;
+  }
+
+  .imageContainer {
+    margin-top: 150px !important;
+  }
+
 }
 
 .imageContainer {
@@ -92,23 +103,16 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-repeat: no-repeat;
   background: linear-gradient(201deg, rgba(130, 121, 189, 0.88) 2.33%, rgba(77, 144, 158, 0.47) 96%);
 }
 
 .imageContainer img {
+  z-index: 9999;
   height: 100vh;
   max-width: 90%;
 }
 
-
-.Effect {
-  position: absolute;
-  width: 572px;
-  height: 100vh;
-  left: 0px;
-  top: 0px;
-  background: linear-gradient(201deg, rgba(130, 121, 189, 0.88) 2.33%, rgba(77, 144, 158, 0.47) 96%);
-}
 
 .textContainer {
   box-sizing: border-box;
@@ -123,6 +127,7 @@ html {
   left: -56px;
   top: 11px;
   background: rgba(8, 81, 149, 0.62);
+  background-repeat: no-repeat !important;
   filter: blur(100px);
 }
 

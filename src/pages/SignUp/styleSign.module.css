@@ -1,0 +1,173 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  border-style: none;
+  text-decoration: none;
+
+}
+
+.ContainerSign {
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 50px;
+  padding: 3%;
+  width: 32%;
+  height: 60%;
+}
+
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: initial;
+  color: #ffffff;
+  font-family: 'ABeeZee';
+  font-style: normal;
+  margin-left: 50px;
+  padding: 133%;
+  width: 22%;
+  
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 25px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 16px;
+  line-height: 28px;
+
+  color: #085195;
+}
+
+.SignUp {
+  display: flex;
+  background-color: #085195;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+}
+
+.SignName {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  border-color: #085195;
+  border-style: solid;
+  width: 338px;
+  height: 51px;
+  margin-bottom: 5%;
+  border-width: medium;
+}
+
+.SignName input {
+  display: flex;
+  background: transparent;
+  width: 100%;
+  outline-width: 0;
+  color: #121214;
+  border: none;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-width: medium;
+  
+}
+
+.SignUserName {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  border-color: #085195;
+  border-style: solid;
+  width: 338px;
+  height: 51px;
+  margin-bottom: 5%;
+  border-width: medium;
+
+}
+
+.SignUserName input {
+  background: transparent;
+  width: 100%;
+  outline-width: 0;
+  color: #121214;
+  border: none;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-width: medium;
+}
+
+.SignEmail {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  border-color: #085195;
+  border-style: solid;
+  width: 338px;
+  height: 51px;
+  margin-bottom: 5%;
+  border-width: medium;
+
+}
+
+.SignEmail input {
+  display: flex;
+  background: transparent;
+  width: 100%;
+  outline-width: 0;
+  color: #121214;
+  border: none;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-width: medium;
+}
+
+.SignCPF {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  border-color: #085195;
+  border-style: solid;
+  width: 338px;
+  height: 51px;
+  margin-bottom: 10%;
+  border-width: medium;
+}
+
+.SignCPF input {
+  background: transparent;
+  width: 100%;
+  outline-width: 0;
+  color: #121214;
+  border: none;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-width: medium;
+  
+}
+
+.buttons{
+  align-self: flex-end;
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+ 
+}

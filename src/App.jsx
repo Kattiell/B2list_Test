@@ -1,11 +1,10 @@
-import { useState } from "react";
 import "./App.css";
 import DefaultButton from "./components/DefaultButton";
-import SingUp from "./pages/SignUp/index"
+
 
 function App() {
   // const [count, setCount] = useState(0)
-
+  
   return (
     <div className="App">
       <div className="imageContainer">
@@ -30,7 +29,8 @@ function App() {
             backgroundColorButton={"#2DC8C5"}
             colorText={"#085195"}
             fontButton={700}
-            onClick="SignUp()"
+            href="/signup"
+            
           />
 
           <DefaultButton
