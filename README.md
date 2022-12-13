@@ -7,8 +7,8 @@ Desafio full-stack proposto pela empresa: B2list
 
 <h2 display="inline"> Segue abaixo as informações:
 <h3>
-  Como Frarmework (Front-End) foi utilizado - React JS, por sua flexibilidade diante a componentização.
-  Como Construtor (Front-End) foi utilizado - Vite React, por sua agiligadae na conversão de módulos.
+  Como Frarmework (Front-End) foi utilizado - React JS, por sua flexibilidade diante a componentização. <br>
+  Como Construtor (Front-End) foi utilizado - Vite React, por sua agiligadae na conversão de módulos. <br>
   
   <br>
   Ao clonar este projeto é recomendado que execute o comando no terminal - "npm install".
