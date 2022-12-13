@@ -5,8 +5,12 @@ Desafio full-stack proposto pela empresa: B2list
   :sparkles: :v: Documentação utilizada para o projeto by: Kattiel :sparkles: 
 </h2>
 
-<h2 display="inline"> Segue algumas infos sobre mim
+<h2 display="inline"> Segue abaixo as informações:
 <h3>
-  Tenho 20 anos e sou de Patos de Minas, Minas Gerais. Amo lo-fi . <br>
-  Atualmente trabalho na B2LIST com a Coordenação do time de Suporte. 
+  Como Frarmework (Front-End) foi utilizado - React JS, por sua flexibilidade diante a componentização.
+  Como Construtor (Front-End) foi utilizado - Vite React, por sua agiligadae na conversão de módulos.
+  
+  <br>
+  Ao clonar este projeto é recomendado que execute o comando no terminal - "npm install".
+  Como para execução do Projeto - "yarn run dev". 
 <h3/>
