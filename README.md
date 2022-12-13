@@ -13,6 +13,7 @@ Desafio full-stack proposto pela empresa: B2list
   
   <br>
   •	Ao clonar este projeto é recomendado que execute o comando no terminal - "npm install". <br>
-  •	Para execução do Projeto - "yarn run dev".
+  <br>
+  • Para executar o Projeto - "yarn run dev".
 
 <h3/>
